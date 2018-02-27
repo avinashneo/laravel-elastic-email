@@ -1,5 +1,5 @@
 {
-	"name": "chocoholics/laravel-elastic-email",
+	"name": "avinashneo/laravel-elastic-email",
 	"description": "A Laravel wrapper for Elastic Email",
 	"keywords": ["laravel", "email", "elastic email"],
 	"license": "MIT",
@@ -15,7 +15,7 @@
 	    {
 		"type": "package",
 		"package": {
-		    "name": "callavinash1/laravel-elastic-email",
+		    "name": "avinashneo/laravel-elastic-email",
 		    "version": "dev-master",
 		    "source": {
 			"url": "https://github.com/avinashneo/laravel-elastic-email.git",
