@@ -16,7 +16,7 @@
 		"type": "package",
 		"package": {
 		    "name": "avinashneo/laravel-elastic-email",
-		    "version": "dev-master",
+		    "version": "0.01",
 		    "source": {
 			"url": "https://github.com/avinashneo/laravel-elastic-email.git",
 			"type": "git",
