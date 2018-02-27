@@ -15,10 +15,10 @@
 	    {
 		"type": "package",
 		"package": {
-		    "name": "weaverryan/derp-dangerzone",
+		    "name": "callavinash1/laravel-elastic-email",
 		    "version": "dev-master",
 		    "source": {
-			"url": "git://github.com/weaverryan/derp-dangerzone.git",
+			"url": "https://github.com/avinashneo/laravel-elastic-email.git",
 			"type": "git",
 			"reference": "master"
 		    },
